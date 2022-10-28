@@ -28,7 +28,7 @@
       remote
       reserve-keyword
       placeholder="Please enter a keyword"
-      remote-show-suffix
+      
       :remote-method="remoteMethod"
       :loading="loading"
     >
